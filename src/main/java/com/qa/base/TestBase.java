@@ -33,7 +33,7 @@ import io.appium.java_client.touch.offset.PointOption;
 
 /**
  * @author Lav Gupta
- * @date 20-Jul-2020
+ * @date 20-Aug-2020
  * @description Testbase class for initialization and prerequisite configuration for help to launch the application and
  * all generic methods like scroll, wait, waitForElementPresent etc. 
  */

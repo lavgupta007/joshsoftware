@@ -19,7 +19,7 @@ import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 
 /**
  * @author Lav Gupta
- * @date 21-Jul-2020
+ * @date 20-Aug-2020
  * @description Page Factory of logging page with methods which are using for specific operations.
  */
 public class LoginPage  extends TestBase {

@@ -17,7 +17,7 @@ import com.relevantcodes.extentreports.LogStatus;
 
 /**
  * @author Lav Gupta
- * @date 20-Jul-2020
+ * @date 20-Aug-2020
  * @description ExtentReporterNG for advance details reporting.
  */
 

@@ -40,6 +40,6 @@ public class AppiumDemo extends TestBase{
 
 	@AfterClass
 	public void tearDown(){
-		//		driver.quit();
+		driver.quit();
 	}
 }

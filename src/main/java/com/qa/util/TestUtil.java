@@ -30,7 +30,7 @@ import io.appium.java_client.touch.offset.PointOption;
 
 /**
  * @author Lav Gupta
- * @date 20-Jul-2020
+ * @date 20-Aug-2020
  * @description  
  */
 public class TestUtil extends TestBase {
